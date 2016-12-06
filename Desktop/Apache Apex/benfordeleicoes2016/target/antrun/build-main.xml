@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <move file="C:\Users\guian\Desktop\Apache Apex\benfordeleicoes2016\target/benfordeleicoes2016-1.0-SNAPSHOT-apexapp.jar" tofile="C:\Users\guian\Desktop\Apache Apex\benfordeleicoes2016\target/benfordeleicoes2016-1.0-SNAPSHOT.apa"/>
+</target>
+</project>
